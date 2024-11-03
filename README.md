@@ -5,7 +5,7 @@ This repository contains a fully networked, multiplayer survival game built in U
 ### How To Run
 - Open uproject file from UE5, it should open `TestingLevel.umap` by default. If not, it is located in `Content/Maps`.
 - Run the game as client and set number of players to 2, to test combat system.
-- 
+  
 ## Features
 
 ### Player Movement
