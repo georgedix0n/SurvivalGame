@@ -25,3 +25,4 @@ This repository contains a fully networked, multiplayer survival game built in U
 ### To do
 - Fix bug in UI leading to oversized/ mis-aligned inventory items
 - Build full map, at the minute project only includes a test arena
+- Remove unnecessary/ unused files from repo
